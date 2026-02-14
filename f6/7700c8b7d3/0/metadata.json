@@ -1,0 +1,16 @@
+{
+  "agent": "whatif-prompt",
+  "model": "gpt-5.2",
+  "startTime": "2026-02-14T17:32:55.880Z",
+  "endTime": "2026-02-14T17:32:55.880Z",
+  "steps": 2,
+  "filesModified": [
+    "index.html"
+  ],
+  "sessionId": "session-1771090330344-y0pv8",
+  "attribution": {
+    "agentLines": 1,
+    "humanLines": 0,
+    "totalLines": 12
+  }
+}
